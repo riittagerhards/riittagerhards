@@ -1,16 +1,20 @@
-### Hi there 👋
+# **Hi 👋 I'm Riitta!**
 
-<!--
-**riittagerhards/riittagerhards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From Audit to Controlling to Web Development ||
+From CEAVOP to Excel to JavaScript
 
-Here are some ideas to get you started:
+- 📚 I’m currently working on [Dear diary](https://github.com/riittagerhards/dear-diary), a private social media app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Just gratuated from [neuefische](https://www.neuefische.de/) Web Development Bootcamp
+
+- 🔦 Worked as Financial Controller and Auditor
+
+- 🔍 I’m looking for a job as Junior Web Developer in Frankfurt am Main - Wiesbaden
+
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/riitta-gerhards/)
+
+- ⚡ Fun fact: Tämä ei ole salakieltä
+
+Languages and Tools: REACT / JS / HTML / CSS / TYPESCRIPT / GIT / NODE.JS / EXPRESS / MONGODB / FIGMA / STORYBOOK / VSCODE
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riittagerhards&theme=blueberry)](https://git.io/streak-stats)

@@ -7,8 +7,6 @@ From CEAVOP to Excel to JavaScript
 
 - 🌱 Just gratuated from [neuefische](https://www.neuefische.de/) Web Development Bootcamp
 
-- 🔦 Worked as Financial Controller and Auditor
-
 - 🔍 I’m looking for a job as Junior Web Developer in Frankfurt am Main - Wiesbaden
 
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/riitta-gerhards/)

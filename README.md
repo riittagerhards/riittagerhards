@@ -3,7 +3,7 @@
 From Audit to Controlling to Web Development ||
 From CEAVOP to Excel to JavaScript
 
-- 🌱 Just gratuated from [neuefische](https://www.neuefische.de/) Web Development Bootcamp
+- 🌱 A gratuate from [neuefische](https://www.neuefische.de/) Web Development Bootcamp
 
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/riitta-gerhards/)
 
@@ -11,4 +11,4 @@ From CEAVOP to Excel to JavaScript
 
 Languages and Tools: REACT / JS / HTML / CSS / TYPESCRIPT / GIT / NODE.JS / EXPRESS / MONGODB / FIGMA / STORYBOOK / VSCODE
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riittagerhards&theme=blueberry)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riittagerhards&show_icons=true&locale=en&theme=synthwave&hide=stars,contribs&count_private=true" alt="riittagerhards" /></p>

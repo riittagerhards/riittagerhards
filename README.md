@@ -9,6 +9,6 @@ From CEAVOP to Excel to JavaScript
 
 - ⚡ Fun fact: Tämä ei ole salakieltä
 
-Languages and Tools: REACT / JS / HTML / CSS / TYPESCRIPT / GIT / NODE.JS / EXPRESS / MONGODB / FIGMA / STORYBOOK / VSCODE
+Languages and Tools: ANGULAR / REACT / JS / HTML / CSS / TYPESCRIPT / GIT / NODE.JS / EXPRESS / MONGODB / FIGMA / HEROKU / STORYBOOK / VSCODE
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riittagerhards&show_icons=true&locale=en&theme=synthwave&hide=stars,contribs&count_private=true" alt="riittagerhards" /></p>
